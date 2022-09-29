@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@200&display=swap');
+body{
+    text-align: center;
+    background-image: url(./image.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family:'Karla', sans-serif;;
+}
+.cal-row{
+    padding: 4px 0px;
+}
+button{
+    padding: 10px 16px;
+    border: 2px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+    background: lightgrey;
+}
+.input{
+    padding-top: 18px;
+    padding-bottom: 12px;
+}
+#input{
+    padding: 5px 1px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
